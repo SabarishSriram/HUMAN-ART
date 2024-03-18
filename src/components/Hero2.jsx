@@ -13,7 +13,7 @@ import Person9 from '../assets/Person9.webp'
 
 function Hero2() {
   return (
-    <div>
+    <div className="">
         <div className='bg-black mt-12 md:px-40 p-4 rounded-3xl mx-3 '>
             <div className='flex items-center justify-center '> 
                 <img src={Person1} alt="" className='w-16 md:w-[150px] rounded-full  ' />
@@ -37,7 +37,7 @@ function Hero2() {
                 
                 <button className='bg-white text-black md:text-base font-bold text-base rounded-full border-[3px] border-[#000000] md:mr-2  py-4 ml-2 md:ml-0 w-[300px] md:w-[225px]'> Get one from Opensea</button>
 
-                <button className='bg-black text-white mt-2 md:text-base font-bold text-base rounded-full border-[3px] border-[#ffffff]  py-4 ml-2 md:ml-0 w-[300px] md:w-40'>🌮 Learn more</button>
+                <button className='bg-black text-white md:mt-0 mt-2 md:text-base font-bold text-base rounded-full border-[3px] border-[#ffffff]  py-4 ml-2 md:ml-0 w-[300px] md:w-40'>🌮 Learn more</button>
             </div>
         </div>
     </div>

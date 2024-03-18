@@ -6,6 +6,8 @@ import Card2 from './components/Card2'
 import Card3 from './components/Card3'
 import Card4 from './components/Card4'
 import Hero2 from './components/Hero2'
+import Art from './components/Art'
+import Universe from './components/Universe'
 
 function App() {
   return (
@@ -17,6 +19,8 @@ function App() {
       <Card3/>
       <Card4/>
       <Hero2/>
+      <Art/>
+      <Universe/>
       
     </div>
   )
