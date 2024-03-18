@@ -6,7 +6,7 @@ function Card1() {
     <div className='grid md:grid-cols-2 border-[5px] m-3 md:mx-14 md:py-6  border-black rounded-3xl mt-28'>
         <div className='flex justify-center items-center'>
             
-            <img src={Cards1} alt="" className=' mt-7 m-3 rounded-lg w-[370px] md:w-[450px]' />
+            <img src={Cards1} alt="" className=' mt-7 m-3 rounded-lg w-[300px] md:w-[450px]' />
         </div>
         <div className=' px-4 my-auto '>
             <h1 className='font-extrabold text-xl md:text-3xl  py-4'>Wrestle. Wrestle. Wrestle!</h1>

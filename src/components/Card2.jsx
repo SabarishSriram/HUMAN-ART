@@ -4,7 +4,7 @@ import Herokind from '../assets/Herokind.webp'
 function Card2() {
   return (
     <div className='grid md:grid-cols-2 border-[5px] m-3 md:mx-14 md:py-6  border-black rounded-3xl mt-12'>
-        <div className='flex justify-center items-center'>
+        <div className='flex justify-center items-center px-8'>
             
             <img src={Herokind} alt="" className=' mt-7 m-3 rounded-lg w-[380px] md:w-[450px]' />
         </div>
