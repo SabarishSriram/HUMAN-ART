@@ -13,8 +13,8 @@ import Person9 from '../assets/Person9.webp'
 
 function Hero2() {
   return (
-    <div className="">
-        <div className='bg-black mt-12 md:px-40 p-4 rounded-3xl mx-3 '>
+    <div className="bg-[url('./assets/Bg1.png')] py-[10px] h-[640px] ">
+        <div className='bg-black mt-12 md:px-40 p-4 rounded-3xl mx-3  '>
             <div className='flex items-center justify-center '> 
                 <img src={Person1} alt="" className='w-16 md:w-[150px] rounded-full  ' />
                 <img src={Person2} alt="" className='w-16 rounded-full md:w-[150px] ' />

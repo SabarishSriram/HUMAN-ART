@@ -8,6 +8,7 @@ import Card4 from './components/Card4'
 import Hero2 from './components/Hero2'
 import Art from './components/Art'
 import Universe from './components/Universe'
+import Stayhuman from './components/Stayhuman'
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
       <Hero2/>
       <Art/>
       <Universe/>
+      <Stayhuman/>
       
     </div>
   )
