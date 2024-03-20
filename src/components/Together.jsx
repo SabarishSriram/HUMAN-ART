@@ -9,10 +9,10 @@ function Together() {
           
         </div>
 
-        <div className='px-11 md:px'> 
-            <p className='font-bold md:text-4xl text-3xl text-left md:text-center mt-5'>Building together</p>
+        <div className='px-11'> 
+            <p className='font-bold md:text-4xl text-3xl text-left md:text-left md:px-4 mt-5'>Building together</p>
 
-            <p className=' text-left font-serif text-lg mt-3 md:px-40 md:text-center'>Our mission is to entertain and inspire people all over the globe through the power of art, kindness, and unique storytelling in web3.</p>
+            <p className=' text-left font-serif text-lg mt-3 md:px-4 md:text-left'>Our mission is to entertain and inspire people all over the globe through the power of art, kindness, and unique storytelling in web3.</p>
 
             <div className='flex flex-col md:flex-row md:justify-center justify-left mt-4 mb-8 items-left'>
 
