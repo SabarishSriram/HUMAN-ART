@@ -3,7 +3,7 @@ import Robot from '../assets/Robot.gif'
 
 function Art() {
   return (
-    <div className="bg-[url('./assets/Bg-small.png')] py-[10px] h-[830px]">
+    <div className="bg-[url('./assets/Bg-small.png')] py-[10px] h-[830px] md:h-[630px]">
       <div className="grid md:grid-cols-2 justify-center md:px-5 items-center">
         <div className=' bg-white border-[4px] border-black rounded-3xl md:px-12 px-6 mx-3 mt-9'>
           <p className='font-bold md:text-5xl text-2xl text-left mt-5'>Art and kindness are our tools of trade</p>

@@ -5,7 +5,7 @@ function Universe() {
   return (
     <div>
         <div className='flex items-center justify-center mt-7'>
-            <img className='md:w-[700px] w-[350px]' src={UniCorn} alt="" />
+            <img className='md:w-[900px] w-[350px]' src={UniCorn} alt="" />
         </div>
 
         <div className='px-11'> 
