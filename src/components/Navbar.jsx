@@ -9,7 +9,7 @@ function Navbar() {
         <div className='flex items-center w-full'>
             <img src={Icon} alt="" className='w-9' />
             <p className=' font-bold text-base	'>humankind</p>
-            <div className='ml-6  hidden md:flex justify-center items-center'>
+            <div className='ml-[20px]  hidden md:flex justify-center items-center'>
               <p className='font-bold ml-[400px]'>Wrestle</p>
               <p className='font-bold ml-[25px]'>Collectibles</p>
               <p className='font-bold ml-[25px]'>Shop</p>
