@@ -9,6 +9,8 @@ import Hero2 from './components/Hero2'
 import Art from './components/Art'
 import Universe from './components/Universe'
 import Stayhuman from './components/Stayhuman'
+import Together from './components/Together'
+import Adventure from './components/Adventure'
 
 function App() {
   return (
@@ -23,6 +25,8 @@ function App() {
       <Art/>
       <Universe/>
       <Stayhuman/>
+      <Together/>
+      <Adventure/>
       
     </div>
   )
