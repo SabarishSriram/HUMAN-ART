@@ -16,7 +16,7 @@ function Card3() {
 
             <div className='flex md:justify-start justify-center mt-4 mb-8'>
                 
-                <button className='bg-[#FFD91A] text-black md:text-base font-bold text-base rounded-full border-[3px] border-[#BB7A00]  py-4 md:ml-0 w-[340px] md:w-40'> 💖 Learn More!</button>
+                <button className='bg-[#FFD91A] text-black md:text-base font-bold text-base rounded-full border-[3px] border-[#BB7A00]  py-4 md:ml-0 w-[340px] md:w-40 hover:bg-[#ddff47] hover:shadow-2xl duration-300 ease-in-out'> 💖 Learn More!</button>
             </div>
 
         </div>

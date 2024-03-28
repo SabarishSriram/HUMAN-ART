@@ -20,9 +20,9 @@ function Card4() {
 
             <div className='flex flex-col md:flex-row md:justify-start justify-center mt-4 mb-8 items-center'>
                 
-                <button className='bg-[#000000] text-white md:text-base font-bold text-base rounded-full border-[3px] border-[#000000] md:mr-2  py-4 ml-2 md:ml-0 w-[250px] md:w-[225px]'>🌊 Get one from Opensea</button>
+                <button className='bg-[#000000] text-white md:text-base font-bold text-base rounded-full border-[3px] border-[#000000] md:mr-2  py-4 ml-2 md:ml-0 w-[250px] md:w-[225px] hover:bg-[#E03327] hover:shadow-2xl duration-300 ease-in-out'>🌊 Get one from Opensea</button>
 
-                <button className='bg-[#ffffff] text-black mt-2 md:text-base font-bold text-base rounded-full border-[3px] border-[#000000]  py-4 ml-2 md:ml-0 w-[250px] md:w-40'>🌮 Learn more</button>
+                <button className='bg-[#ffffff] text-black mt-2 md:text-base font-bold text-base rounded-full border-[3px] border-[#000000]  py-4 ml-2 md:ml-0 w-[250px] md:w-40 '>🌮 Learn more</button>
             </div>
             
 

@@ -14,7 +14,7 @@ function Navbar() {
               <p className='font-bold px-3'>Shop</p>
               <p className='font-bold px-3'>Community</p>
               <p className='font-bold px-3'>Subscribe</p>
-              <button className='bg-black text-white w-[325px] py-2 mr-8 font-bold rounded-full'>Play Now! 💀</button>
+              <button className='hover:bg-[#E03327] border-black border-[3px] hover:shadow-2xl duration-300 ease-in-out bg-black text-white w-[325px] py-1 mr-8 font-bold rounded-full'>Play Now! 💀</button>
               
            
         <IoMenu size={40} className='fixed md:hidden right-8' /> 

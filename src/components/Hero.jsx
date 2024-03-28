@@ -14,9 +14,9 @@ function Hero() {
         <p className='font-serif font-extralight mt-5 text-center md:text-2xl text-xl '>Creating a magical world for the kid in all of us.</p>
 
         <div className='w-full flex md:flex-row flex-col justify-center mt-9 items-center '>
-            <button className='bg-white text-black font-bold text-base rounded-full border-[3px] md:text-base md:w-1/6 w-3/4 border-black px-6 md:px-4 md:mr-3 py-4 mt-3 '> 🎁 Get a Lunchbox!</button>
+            <button className='bg-white text-black font-bold text-base rounded-full border-[3px] hover:shadow-2xl transition-colors duration-300 ease-in-out md:text-base md:w-1/6 w-3/4 border-black px-6 md:px-4 md:mr-3 py-4 mt-3 '> 🎁 Get a Lunchbox!</button>
             
-            <button className='bg-black text-white font-bold text-base rounded-full border-[3px] md:text-base md:w-1/6 w-3/4 border-black px-6 py-4 mt-3 '> ⚔️ Play Now!</button>
+            <button className='bg-black text-white font-bold text-base rounded-full border-[4px] md:text-base md:w-1/6 w-3/4 border-black px-6 py-4 mt-3 hover:bg-[#E03327] hover:shadow-2xl duration-300 ease-in-out '> ⚔️ Play Now!</button>
         </div>
     </div>
   )
